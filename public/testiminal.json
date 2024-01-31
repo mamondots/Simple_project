@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Mike taylor",
+        "country":"Lahore, Pakistan",
+        "feedback":"“On the Windows talking painted pasture yet its express parties use. Sure last upon he same as knew next. Of believed or diverted no.”",
+        "rating":4
+
+    },
+    {
+        "name":"Al Mamon",
+        "country":"Dhaka, Bangladesh",
+        "feedback":"“Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure corporis, cum natus tenetur est distinctio at qui eaque eum fuga obcaecati, quasi voluptate tempore ipsa?”",
+        "rating":5
+
+    },
+    {
+        "name":"Jack pul",
+        "country":"London, UK",
+        "feedback":"“On the Windows talking painted pasture yet its express parties use. Sure last upon he same as knew next. Of believed or diverted no.”",
+        "rating":3
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Rome, Italty",
+        "price":542,
+        "days":"10",
+        "img":"https://i.ibb.co/BN5L9Br/destionn3.png"
+    },
+    {
+        "title":"London, UK",
+        "price":15,
+        "days":"12",
+        "img":"https://i.ibb.co/3TVWgxn/destionn.png"
+    },
+    {
+        "title":"Full Europe",
+        "price":320,
+        "days":"18",
+        "img":"https://i.ibb.co/ZmDcgkg/destionn2.png"
+    },
+    {
+        "title":"Mumbai, India",
+        "price":242,
+        "days":"15",
+        "img":"https://i.ibb.co/BN5L9Br/destionn3.png"
+    }
+]
